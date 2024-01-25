@@ -1,4 +1,4 @@
-- 🖥️ Computer Science Student
+- 🖥️ Computer Science student
 - ☕ Currently learning Java
 
 <!---
